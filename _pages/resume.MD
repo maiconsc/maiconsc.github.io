@@ -9,6 +9,8 @@ permalink: /resume/
 
 <hr>
 
+[Curriculum vitae](https://maiconsc.github.io/cv_maicon.pdf) (PDF version). 
+
 ## Education
 * **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
 Doctor of Philosophy (Ph.D.), Computer Science.\\
