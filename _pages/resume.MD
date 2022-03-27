@@ -12,8 +12,9 @@ permalink: /resume/
 ## Education
 * **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
 Doctor of Philosophy (Ph.D.), Computer Science.\\
-2017 - present.\\
+2017 - 2022.\\
 Advisor: Prof. Felipe Marques.
+Ph.D. thesis: Cell Implementation Through Boolean Satisfiability for Conventional and Emerging Technologies.
 {: .text-justify} 
 
 * **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
@@ -45,10 +46,17 @@ Technical, Electronics.\\
 ^
 
 ## Experience
+* **Professor.**\\
+Federal Institute Sul-rio-grandense (IFSul), Pelotas, Brazil.\\
+Electronics (technical college-level course).\\
+Classes: computer architecture and digital electronics.
+2021 - 2022.
+{: .text-justify} 
+
 * **Ph.D. Student Researcher.**\\
 Federal University of Pelotas (UFPel), Pelotas, Brazil.\\
 Group of Architectures and Integrated Circuits (GACI).\\
-2017 - present.
+2017 - 2021.
 {: .text-justify} 
 
 * **Ph.D. Visiting Research Scholar.**\\
