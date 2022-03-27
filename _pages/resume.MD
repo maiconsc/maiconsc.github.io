@@ -15,7 +15,7 @@ permalink: /resume/
 * **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
 Doctor of Philosophy (Ph.D.), Computer Science.\\
 2017 - 2022.\\
-Advisor: Prof. Felipe Marques.
+Advisor: Prof. Felipe Marques.\\
 Ph.D. thesis: Cell Implementation Through Boolean Satisfiability for Conventional and Emerging Technologies.
 {: .text-justify} 
 
