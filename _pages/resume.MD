@@ -52,7 +52,7 @@ Technical, Electronics.\\
 Federal Institute Sul-rio-grandense (IFSul), Pelotas, Brazil.\\
 Electronics (technical college-level course).\\
 Classes: computer architecture and digital electronics.\\
-2021 - 2022.
+2021 - present.
 {: .text-justify} 
 
 * **Ph.D. Student Researcher.**\\
