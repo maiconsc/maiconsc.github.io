@@ -48,11 +48,18 @@ Technical, Electronics.\\
 ^
 
 ## Experience
-* **Assistent Professor.**\\
+* **Lecturer.**\\
+Federal University of Pelotas (UFPel), Pelotas, Brazil.\\
+Technology Development Center (CDTec).\\
+Classes: algorithms and programming.\\
+2023 - present.
+{: .text-justify} 
+
+* **Lecturer.**\\
 Federal Institute Sul-rio-grandense (IFSul), Pelotas, Brazil.\\
-Electronics (technical college-level course).\\
+Electronics.\\
 Classes: computer architecture and digital electronics.\\
-2021 - present.
+2021 - 2023.
 {: .text-justify} 
 
 * **Ph.D. Student Researcher.**\\
