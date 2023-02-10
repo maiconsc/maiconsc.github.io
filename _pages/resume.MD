@@ -9,7 +9,7 @@ permalink: /resume/
 
 <hr>
 
-[Curriculum vitae](https://maiconsc.github.io/cv_maicon.pdf){:target="\_blank"} (PDF version). 
+// <!---[Curriculum vitae](https://maiconsc.github.io/cv_maicon.pdf){:target="\_blank"} (PDF version).  --->
 
 ## Education
 * **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
