@@ -9,5 +9,5 @@ permalink: /emicro2024/
 
 <hr>
 
-* The Basic Toolbox for Chip Design: an Introduction to Electronic Design Automation: [download](https://drive.google.com/file/d/12qqmlAoqMXb_Ufji7pdk5iHsZgk6dbrJ/view){:target="\_blank"}.
+* The Basic Toolbox for Chip Design: an Introduction to Electronic Design Automation: download presentation [here](https://drive.google.com/file/d/1SXvr-_HiS2XrXG-LhpbJpplS0qBVPBxK/view){:target="\_blank"}.
 {: .text-justify}
