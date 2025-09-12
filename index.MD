@@ -11,5 +11,5 @@ author_profile: true
 **Mr. Maicon** received the Ph.D, M.Sc. and B.Sc. degrees in Computer Science from the [Federal University of Pelotas](https://ufpel.edu.br){:target="\_blank"} (UFPel) in 2022, 2017, and 2014, respectively, and the B.Eng. in Electrical Engineering from the [Federal Institute Sul-rio-grandense](https://ifsul.edu.br){:target="\_blank"} (IFSul) in 2018. 
 {: .text-justify} 
 
-Since 2023, he has held the position of Lecturer at the [Federal University of Pelotas]([https://ifsul.edu.br](https://ufpel.edu.br)){:target="\_blank"} (UFPel). He has over 10 years of research experience in the development of EDA solutions for conventional and emerging technologies.
+He is currently a **Corporate Application Engineer at [Silvaco Inc.](https://silvaco.com)**, where he leverages more than 10 years of microelectronics experience to support the development and adoption of innovative EDA technologies.
 {: .text-justify}
