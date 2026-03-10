@@ -9,50 +9,20 @@ permalink: /resume/
 
 <hr>
 
-[Curriculum vitae](https://maiconsc.github.io/cv_maicon.pdf){:target="\_blank"} (PDF version).
-
-## Education
-* **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
-Doctor of Philosophy (Ph.D.), Computer Science.\\
-2017 - 2022.\\
-Advisor: Prof. Felipe Marques.\\
-Ph.D. thesis: Cell Implementation Through Boolean Satisfiability for Conventional and Emerging Technologies.
-{: .text-justify} 
-
-* **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
-Master of Science (M.Sc.), Computer Science.\\
-2015 - 2017.\\
-Advisor: Prof. Felipe Marques.\\
-Master thesis: Design and Evaluation of Complex Logic Gates Without Topological Constraints (in Portuguese: "Projeto e Avaliação de Portas Lógicas Complexas sem Restrições Topológicas").
-{: .text-justify} 
-
-* **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
-Bachelor of Science (B.Sc.), Computer Science.\\
-2009 - 2014.\\
-Advisor: Prof. Felipe Marques.\\
-Final project: Placement and Routing of Non-Series-Parallel Transistor Networks (in Portuguese: "Posicionamento e Roteamento de Redes de Transistores Não-Série-Paralelo").
-{: .text-justify} 
-
-* **Federal Institute Sul-rio-grandense (IFSul), Pelotas, Brazil.**\\
-Bachelor of Engineering (B.Eng.), Electrical Engineering.\\
-2009 - 2018.\\
-Advisor: Prof. Júlio César Ruzicki.\\
-Final project: Libra: a Methodology for the Automatic Design of SCCGs (in Portuguese: "Libra: uma Metodologia de Desenvolvimento Automático de SCCGs").
-{: .text-justify} 
-
-* **Federal Institute Sul-rio-grandense (IFSul), Pelotas, Brazil.**\\
-Technical, Electronics.\\
-2007 - 2009.
-{: .text-justify} 
-
-^
+[Curriculum vitae](https://maiconsc.github.io/cv_maicon.pdf){:target="\_blank"} (outdated).
 
 ## Experience
+* **Corporate Application Engineer.**\\
+Silvaco Inc.\\
+Description: Provide active support to customers and Field Application Engineers on [CellForge™](https://silvaco.com/library-characterization-optimization/){:target="\_blank"}, a solution for technology migration and netlist-to-layout generation. \\
+2024 - present.
+{: .text-justify} 
+
 * **Lecturer.**\\
 Federal University of Pelotas (UFPel), Pelotas, Brazil.\\
 Technology Development Center (CDTec).\\
 Classes: algorithms and programming.\\
-2023 - present.
+2023 - 2024.
 {: .text-justify} 
 
 * **Lecturer.**\\
@@ -96,6 +66,42 @@ Center of Informatics (CI).\\
 Federal University of Pelotas (UFPel), Pelotas, Brazil.\\
 UFPel Computer Science and Computer Engineering Laboratories.\\
 2010 - 2011.
+
+^
+
+## Education
+* **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
+Doctor of Philosophy (Ph.D.), Computer Science.\\
+2017 - 2022.\\
+Advisor: Prof. Felipe Marques.\\
+Ph.D. thesis: Cell Implementation Through Boolean Satisfiability for Conventional and Emerging Technologies.
+{: .text-justify} 
+
+* **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
+Master of Science (M.Sc.), Computer Science.\\
+2015 - 2017.\\
+Advisor: Prof. Felipe Marques.\\
+Master thesis: Design and Evaluation of Complex Logic Gates Without Topological Constraints (in Portuguese: "Projeto e Avaliação de Portas Lógicas Complexas sem Restrições Topológicas").
+{: .text-justify} 
+
+* **Federal University of Pelotas (UFPel), Pelotas, Brazil.**\\
+Bachelor of Science (B.Sc.), Computer Science.\\
+2009 - 2014.\\
+Advisor: Prof. Felipe Marques.\\
+Final project: Placement and Routing of Non-Series-Parallel Transistor Networks (in Portuguese: "Posicionamento e Roteamento de Redes de Transistores Não-Série-Paralelo").
+{: .text-justify} 
+
+* **Federal Institute Sul-rio-grandense (IFSul), Pelotas, Brazil.**\\
+Bachelor of Engineering (B.Eng.), Electrical Engineering.\\
+2009 - 2018.\\
+Advisor: Prof. Júlio César Ruzicki.\\
+Final project: Libra: a Methodology for the Automatic Design of SCCGs (in Portuguese: "Libra: uma Metodologia de Desenvolvimento Automático de SCCGs").
+{: .text-justify} 
+
+* **Federal Institute Sul-rio-grandense (IFSul), Pelotas, Brazil.**\\
+Technical, Electronics.\\
+2007 - 2009.
+{: .text-justify} 
 
 ^
 
